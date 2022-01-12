@@ -1,0 +1,28 @@
+Train a new model from scratch
+Start training our model...
+Accuracy improved from 0.0 to 0.9676592946052551
+Epoch: 0  loss = 0.077462 accuracy = 0.967659 dice_coef = 0.922924 val_loss = 0.008065 val_accuracy = 0.998218 val_dice_coef = 0.991509 lr = 0.000100
+
+Accuracy improved from 0.9676592946052551 to 0.9984942078590393
+Epoch: 1  loss = 0.006277 accuracy = 0.998494 dice_coef = 0.993725 val_loss = 0.004728 val_accuracy = 0.998956 val_dice_coef = 0.995040 lr = 0.000090
+
+Accuracy improved from 0.9984942078590393 to 0.9989598393440247
+Epoch: 2  loss = 0.004320 accuracy = 0.998960 dice_coef = 0.995683 val_loss = 0.003371 val_accuracy = 0.999259 val_dice_coef = 0.996571 lr = 0.000081
+
+Accuracy improved from 0.9989598393440247 to 0.9991528987884521
+Epoch: 3  loss = 0.003499 accuracy = 0.999153 dice_coef = 0.996502 val_loss = 0.003006 val_accuracy = 0.999329 val_dice_coef = 0.996930 lr = 0.000073
+
+Accuracy improved from 0.9991528987884521 to 0.9992510676383972
+Epoch: 4  loss = 0.003083 accuracy = 0.999251 dice_coef = 0.996918 val_loss = 0.002518 val_accuracy = 0.999450 val_dice_coef = 0.997437 lr = 0.000066
+
+Accuracy improved from 0.9992510676383972 to 0.9993396997451782
+Epoch: 5  loss = 0.002716 accuracy = 0.999340 dice_coef = 0.997284 val_loss = 0.002569 val_accuracy = 0.999423 val_dice_coef = 0.997377 lr = 0.000059
+
+Accuracy improved from 0.9993396997451782 to 0.9994294047355652
+Epoch: 6  loss = 0.002362 accuracy = 0.999429 dice_coef = 0.997638 val_loss = 0.003797 val_accuracy = 0.999109 val_dice_coef = 0.996107 lr = 0.000053
+
+Epoch: 7  loss = 0.002354 accuracy = 0.999425 dice_coef = 0.997646 val_loss = 0.002152 val_accuracy = 0.999524 val_dice_coef = 0.997815 lr = 0.000048
+
+Accuracy improved from 0.9994294047355652 to 0.9995256662368774
+Epoch: 8  loss = 0.001965 accuracy = 0.999526 dice_coef = 0.998036 val_loss = 0.002368 val_accuracy = 0.999458 val_dice_coef = 0.997567 lr = 0.000043
+
